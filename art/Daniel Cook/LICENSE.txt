@@ -1,0 +1,25 @@
+
+
+Basic License
+All licensed items use the Creative Commons Attribution 3.0 License. In short, you can use and modify any images and design covered by this license provided that you attribute the original source materials to me. I chose this license because
+I want as many people as possible to use the materials I've provided.
+I want to spare developer the accusations of theft that sometimes occur when people recognize my materials. Many of the graphics and designs are widely known at this point. The best solution is educating your users on the source of the original inspiration. That way they can move past yelling 'Thief" and start appreciating the variations on the theme that you have created.
+
+
+You can read more on this particular license at:
+http://creativecommons.org/licenses/by/3.0/us/
+
+
+Art attributions
+If you use art from one of my free game art collections, please include the following attribution in a visible location along with any other credits.
+"Art Collection Title" art by Daniel Cook (Lostgarden.com)
+When possible link to blog post that discusses the original art collection. For example, the Space Cute collection would be "Space Cute" art by Daniel Cook (Lostgarden.com)
+
+
+FAQ:
+Q. Can I use the assets or designs covered by the Lost Garden License in a commercial project?
+A. Absolutely. I encourage it! The best way to learn about game development is to finish a project and try to sell it. 
+
+
+
+http://www.lostgarden.com/2007/03/lost-garden-license.html
